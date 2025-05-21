@@ -1,0 +1,3 @@
+com\quickcart\ecommerce\model\Product.class
+com\quickcart\ecommerce\controller\ProductController.class
+com\quickcart\ecommerce\QuickCartApplication.class
